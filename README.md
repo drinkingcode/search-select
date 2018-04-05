@@ -2,6 +2,8 @@
 
 实现一个可输入的下拉框组件，并给出一个可展示效果的页面
 
+[demo](https://noraincode.github.io/search-select/)
+
 基本要求：
 - [x] 基本功能同浏览器的下拉框组件
 - [x] 兼容尽量多的浏览器
