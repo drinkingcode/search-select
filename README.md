@@ -20,6 +20,8 @@
 
 ![demo](./static/images/demo.gif)
 
+> 调用了360搜索接口实现查询功能
+
 ## Build Setup
 
 ``` bash
